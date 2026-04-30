@@ -4,6 +4,10 @@
 
 This is a full-stack productivity application built with React and Flask that allows users to manage tasks tied to specific locations. The app helps users stay organized by associating tasks with real-world places, making it easier to remember and complete them.
 
+## 📸 Screenshot
+
+![App Screenshot](./screenshots/app.png)
+
 ---
 
 ## 🚀 Features
